@@ -1,0 +1,5 @@
+The game is Tic Tac Toe.
+The first player is X and the second player is O.
+3 in a row, column, or diagonal wins the game.
+This person who starts the round alternates after each run.
+Score is also recorded in a text file.
